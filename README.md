@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erwann</h1>
+![image](https://user-images.githubusercontent.com/57303456/193050927-ffdf2300-647c-4462-b834-8a073dd4f277.png)
 <h3 align="center">A passionate junior developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erwann-dev&label=Profile%20views&color=0e75b6&style=flat" alt="erwann-dev" /> </p>
@@ -23,6 +24,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erwann-dev&theme=dark" alt="erwann-dev" /></p>
-
-![image](https://user-images.githubusercontent.com/57303456/193050927-ffdf2300-647c-4462-b834-8a073dd4f277.png)
-
