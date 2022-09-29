@@ -1,10 +1,3 @@
-<a href="">
-  <img align="center" src="https://streak-stats.demolab.com/?user=Erwann-Dev&theme=dark" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-Dev&layout=compact&theme=dark" />
-</a>
-
 <h1 align="center">Hi 👋, I'm Erwann</h1>
 <h3 align="center">A passionate junior developer from France</h3>
 
