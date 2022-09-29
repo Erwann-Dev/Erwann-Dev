@@ -1,2 +1,6 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Erwann-Dev)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Erwann-Dev)](https://github.com/anuraghazra/github-readme-stats)
+<a href="">
+  <img align="center" src="https://streak-stats.demolab.com/?user=Erwann-Dev" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-Dev&layout=compact" />
+</a>
