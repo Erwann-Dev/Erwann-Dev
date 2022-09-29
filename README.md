@@ -12,8 +12,6 @@
 
 <p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=erwann-dev" alt="erwann-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@erwann_dev" target="blank"><img src="https://img.shields.io/twitter/follow/@erwann_dev?logo=twitter&style=for-the-badge" alt="@erwann_dev" /></a> </p>
-
 - 🔭 I’m currently working on [Portfolio](https://erwann-dev.fr)
 
 - 🌱 I’m currently learning **C during the Epitech C Pool**
