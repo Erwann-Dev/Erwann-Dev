@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erwann-dev&label=Profile%20views&color=0e75b6&style=flat" alt="erwann-dev" /> </p>
 
-<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=erwann-dev&theme=onedark" alt="erwann-dev" /></a> </p>
-
 - 🔭 I’m currently working on [Portfolio](https://erwann-dev.fr)
 
 - 🌱 I’m currently learning **C during the Epitech C Pool**
