@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erwann</h1>
 <h3 align="center">A passionate junior developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erwann-dev&theme=onedark&label=Profile%20views" alt="erwann-dev" /> </p>
 
 <p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=erwann-dev" alt="erwann-dev" /></a> </p>
 
