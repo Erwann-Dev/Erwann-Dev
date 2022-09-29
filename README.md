@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erwann</h1>
-![image](https://user-images.githubusercontent.com/57303456/193050927-ffdf2300-647c-4462-b834-8a073dd4f277.png)
+![image](https://user-images.githubusercontent.com/57303456/193051123-9cb22fba-ed46-4351-b5b8-e83021f46170.png)
 <h3 align="center">A passionate junior developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erwann-dev&label=Profile%20views&color=0e75b6&style=flat" alt="erwann-dev" /> </p>
