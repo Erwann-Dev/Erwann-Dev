@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://erwann-dev.fr)
 
-- 🌱 I’m currently learning **C during the Epitech C Pool**
+- 🌱 I’m currently learning **C at Epitech**
 
 - 📫 How to reach me **contact@erwann-dev.fr**
 
