@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erwann-dev&label=Profile%20views&color=0e75b6&style=flat" alt="erwann-dev" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://erwann-dev.fr)
-
-- 🌱 I’m currently learning **C at Epitech**
+- 🌱 I’m currently learning **C, C++ and Haskell at Epitech**
 
 - 📫 How to reach me **contact@erwann-dev.fr**
 
